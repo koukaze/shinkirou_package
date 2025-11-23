@@ -1,0 +1,8 @@
+setup.py
+shinkirou/__init__.py
+shinkirou/module1.py
+shinkirou/module2.py
+shinkirou.egg-info/PKG-INFO
+shinkirou.egg-info/SOURCES.txt
+shinkirou.egg-info/dependency_links.txt
+shinkirou.egg-info/top_level.txt
