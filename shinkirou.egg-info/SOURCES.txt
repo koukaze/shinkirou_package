@@ -1,4 +1,7 @@
+pyproject.toml
 setup.py
+dist/shinkirou-0.1-py3-none-any.whl
+dist/shinkirou-0.1.tar.gz
 shinkirou/__init__.py
 shinkirou/module1.py
 shinkirou/module2.py
@@ -6,3 +9,6 @@ shinkirou.egg-info/PKG-INFO
 shinkirou.egg-info/SOURCES.txt
 shinkirou.egg-info/dependency_links.txt
 shinkirou.egg-info/top_level.txt
+shinkirou/__pycache__/__init__.cpython-313.pyc
+shinkirou/__pycache__/module1.cpython-313.pyc
+shinkirou/__pycache__/module2.cpython-313.pyc
