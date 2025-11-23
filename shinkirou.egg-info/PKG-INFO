@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: shinkirou
-Version: 0.1.1.post0
+Version: 0.1.1.post2
 Summary: A fundamental Python package
 Author-email: Your Name <your.email@example.com>
 License: MIT
@@ -11,7 +11,7 @@ Description-Content-Type: text/markdown
 
 # Shinkirou
 
-A fundamental Python package.
+Trying to learn how to make a package...
 
 ## Installation
 
