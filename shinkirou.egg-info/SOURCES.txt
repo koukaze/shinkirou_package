@@ -1,10 +1,9 @@
+README.md
 pyproject.toml
-setup.py
-dist/shinkirou-0.1-py3-none-any.whl
-dist/shinkirou-0.1.tar.gz
 shinkirou/__init__.py
 shinkirou/module1.py
 shinkirou/module2.py
+shinkirou/version.py
 shinkirou.egg-info/PKG-INFO
 shinkirou.egg-info/SOURCES.txt
 shinkirou.egg-info/dependency_links.txt
