@@ -1,6 +1,6 @@
 # Shinkirou
 
-A fundamental Python package.
+Trying to learn how to make a package...
 
 ## Installation
 
